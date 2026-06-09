@@ -1,0 +1,5 @@
+# Copie para terraform.tfvars e preencha. NAO comite o terraform.tfvars (tem senha).
+aws_region  = "us-east-1"
+bucket_name = "gs-cloud-aero-SEUNOME"   # precisa ser unico no mundo
+db_password = "TroqueEstaSenhaForte123!"
+my_ip_cidr  = "200.0.0.0/32"            # seu IP publico /32  (https://checkip.amazonaws.com)

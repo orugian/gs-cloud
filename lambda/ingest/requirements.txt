@@ -1,0 +1,3 @@
+# Driver MySQL puro-Python (sem dependencias compiladas -> empacota direto no zip).
+# boto3 ja vem no runtime da Lambda, nao precisa instalar.
+PyMySQL==1.1.1
