@@ -54,5 +54,3 @@ Passo a passo completo e como coletar as evidências: **[docs/02-roteiro-execuca
 ## Stack
 
 S3 · Lambda (Python 3.12, PyMySQL) · RDS MySQL 8 · CloudWatch (logs/métricas EMF/alarme/dashboard) · SQS (DLQ) · VPC + S3 Gateway Endpoint · IAM · Terraform
-
-> 💸 Lembre de rodar `terraform destroy` ao terminar para não sair do Free Tier.
