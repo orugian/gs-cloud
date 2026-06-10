@@ -4,6 +4,16 @@ Solução **serverless** na AWS que ingere arquivos de telemetria aeroespacial d
 
 > **Matéria:** Plataformas, Serviços Cognitivos & Cloud Computing — **Tema:** API na nuvem com RAG
 
+
+## Integrantes
+
+| Nome completo | RM |
+|---|:---:|
+| Guilherme Orugian | 572882 |
+| Rodrigo Bettio | 573725 |
+| Rafael Jun Aita Hirata | 569708 |
+
+
 ## Arquitetura (resumo)
 
 ```
